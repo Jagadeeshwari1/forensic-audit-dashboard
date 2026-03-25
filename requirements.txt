@@ -1,3 +1,3 @@
-django
+streamlit
 pandas
 plotly
